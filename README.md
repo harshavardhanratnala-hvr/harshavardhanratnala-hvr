@@ -65,14 +65,22 @@ I am a **Mechanical Engineer (M.Sc.)** transitioning into the world of **Data Sc
 
 ---
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshavardhanratnala-hvr&theme=tokyonight" width="97%" />
+
 <h3 align="center">📫 Let's Connect!</h3>
 <p align="center">
-  <a href="https://linkedin.com/harsha-vardhan-ratnala" target="_blank">
+  <a href="https://linkedin.com/in/harsha-vardhan-ratnala" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:harshavardhanratnala@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/harshavardhanratnala-hvr" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-%236f42c1.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/harshavardhanratnala-hvr?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-%232EA043.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshavardhanratnala-hvr&color=6f42c1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
