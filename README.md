@@ -69,7 +69,7 @@ I am a **Mechanical Engineer (M.Sc.)** transitioning into the world of **Data Sc
 
 <h3 align="center">📫 Let's Connect!</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/harsha-vardhan-ratnala" target="_blank">
+  <a href="https://www.linkedin.com/in/harsha-vardhan-ratnala-7b75021b0/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
